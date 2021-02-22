@@ -1,13 +1,9 @@
 #################################################
-# 15-112-n19 hw-tetris
-# Your Name:Haoyuan Wei
-# Your Andrew ID:haoyuanw
-# Your Section:A
-# Collaborators: no
+# tetris by using python tkinter
+# Author Name:Haoyuan Chris Wei
 #################################################
 
 ######################################################################
-# ignore_rest: The autograder will ignore all code below here
 ######################################################################
 
 from tkinter import *
